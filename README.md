@@ -33,6 +33,8 @@ Additional reqs:
   * Web components docs - https://developers.google.com/web/fundamentals/web-components/
 
   * Custom elemnts MDN - https://developer.mozilla.org/en-US/docs/Web/API/Window/customElements
+  
+  * Text field design - https://material.io/components/text-fields/#
 
 ## ETA
 
