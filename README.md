@@ -3,7 +3,11 @@
 
 ## Problem description
 
-It should be form for mobile number input with a set of various states (`normal`, `hover`, `active`, `error`). Form should have specific interface implemented with mask with next values:
+It should be form for mobile number input with a set of various states (`normal`, `hover`, `active`, `error`). 
+
+![](http://prntscr.com/p5nhgr)
+
+Form should have specific interface implemented with mask with next values:
 
   * `"I" - enabled one-symbol input`
   * `"X" - disabled one-symbol input (with X symbol)`
