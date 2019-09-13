@@ -1,19 +1,23 @@
 {
-  "name": "num-input_wc",
+  "name": "num-input-wc",
   "version": "1.0.0",
   "description": "Design and development number input form as web component",
   "main": "index.js",
   "scripts": {
+    "start": "node server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Shampooh/num-input_wc.git"
+    "url": "git+https://github.com/Shampooh/num-input-wc.git"
   },
   "author": "Sergei Malyshev",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Shampooh/num-input_wc/issues"
+    "url": "https://github.com/Shampooh/num-input-wc/issues"
   },
-  "homepage": "https://github.com/Shampooh/num-input_wc#readme"
+  "homepage": "https://github.com/Shampooh/num-input-wc#readme",
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
 }
