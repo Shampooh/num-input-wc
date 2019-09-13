@@ -22,7 +22,10 @@ const mask = '+7(985)0II-**-**';
 
 Additional reqs:
 1. webpack+npm (-)
-2. ~~Cypress integration testing~~ https://medium.com/@eavichay/easy-unit-tests-for-your-web-components-e26bf88483a9 ? (-)
+2. ~~Cypress integration testing~~ (-)
+   https://medium.com/@eavichay/easy-unit-tests-for-your-web-components-e26bf88483a9
+   https://dev.to/open-wc/testing-workflow-for-web-components-g73
+   ?
 3. eslint (-)
 4. git hooks (-)
 5. CI/CD (Jenkins) (-)
@@ -40,7 +43,7 @@ Additional reqs:
   
 ## HOW TO
 
-1. Start from root `npm start`
+1. Start from root `npm start` (need server because of *ES6 modules are subject to same-origin policy.* - doing smth wrong?..)
 2. Open in Chrome http://localhost:3000/
 3. Edit `mask` and `error` in `./public/test.js` to see diff
 
