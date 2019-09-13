@@ -6,10 +6,10 @@
 It should be form for mobile number input with a set of various states (`normal`, `hover`, `active`, `error`). Form should have specific interface implemented with mask with next values:
 
   * `"I" - enabled one-symbol input`
-  * `"X" - disabled one-symbol input (with `X` symbol)`
-  * `"*" - disabled one-symbol input (with `●` symbol)`
-  * `<num> - disabled one-symbol input (with `num`)`
-  * `<non-num> - disabled one-symbol input (with `non-num`)`	
+  * `"X" - disabled one-symbol input (with X symbol)`
+  * `"*" - disabled one-symbol input (with ● symbol)`
+  * `<num> - disabled one-symbol input (with num)`
+  * `<non-num> - disabled one-symbol input (with non-num)`	
 
 Example: 
 ```js
