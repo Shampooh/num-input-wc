@@ -5,7 +5,7 @@
 
 It should be form for mobile number input with a set of various states (`normal`, `hover`, `active`, `error`). 
 
-![states](http://prntscr.com/p5nhgr)
+![Screenshot_1](https://user-images.githubusercontent.com/8533068/64861837-b7676f80-d639-11e9-9132-7e5649826b8e.png)
 
 Form should have specific interface implemented with mask with next values:
 
