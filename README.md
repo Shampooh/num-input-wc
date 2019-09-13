@@ -20,16 +20,19 @@ Example:
 const mask = '+7(985)0II-**-**';
 ```
 
-Additional reqs:
-1. webpack+npm (-)
-2. ~~Cypress integration testing~~ (-)
-   https://medium.com/@eavichay/easy-unit-tests-for-your-web-components-e26bf88483a9
-   https://dev.to/open-wc/testing-workflow-for-web-components-g73
+Additional reqs (*in process*):
+1. webpack+npm (not ready)
+   https://habr.com/ru/post/309306/ (Пособие по webpack +see comments)
+   https://medium.com/walkme-engineering/publishing-a-web-components-library-7a0670e3939f (Publishing a Web Components Library)
+2. ~~Cypress integration testing~~ (not ready)
+   https://medium.com/@eavichay/easy-unit-tests-for-your-web-components-e26bf88483a9 (Easy Unit-Tests your web-components - showroom)
+   https://dev.to/open-wc/testing-workflow-for-web-components-g73 (Testing Workflow for Web Components - @open-wc)
+   https://medium.com/@pietmichal/how-to-test-a-web-component-b5d64d5e8bb0 (How To Test a Web Component - vanilla way)
    ?
-3. eslint (-)
-4. git hooks (-)
-5. CI/CD (Jenkins) (-)
-6. Docker (-)
+3. eslint (not ready)
+4. git hooks (not ready)
+5. CI/CD (Jenkins) (not ready)
+6. Docker (not ready)
 
 ## Problem solution
 
@@ -50,3 +53,8 @@ Additional reqs:
 ## ETA
 
 **13/09/2019(September 13 2019)**
+
+-------
+Other helpful sources for related theme:
+https://dev.to/thepassle/web-components-from-zero-to-hero-4n4m (Web Components: from zero to hero)
+https://itnext.io/handling-data-with-web-components-9e7e4a452e6e (Handling data with Web Components)
