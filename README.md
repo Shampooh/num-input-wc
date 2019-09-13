@@ -37,6 +37,12 @@ Additional reqs:
   * Text field design - https://material.io/components/text-fields/#
   
   * Integration testing - https://www.cypress.io/ (https://github.com/cypress-io/cypress/issues/144 - ;( )
+  
+## HOW TO
+
+1. Start from root `npm start`
+2. Open in Chrome http://localhost:3000/
+3. Edit `mask` and `error` in `./public/test.js` to see diff
 
 ## ETA
 
