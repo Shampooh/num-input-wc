@@ -36,7 +36,7 @@ Additional reqs:
   
   * Text field design - https://material.io/components/text-fields/#
   
-  * Integration testing - https://www.cypress.io/
+  * Integration testing - https://www.cypress.io/ (https://github.com/cypress-io/cypress/issues/144 - ;( )
 
 ## ETA
 
