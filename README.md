@@ -22,7 +22,7 @@ const mask = '+7(985)0II-**-**';
 
 Additional reqs:
 1. webpack+npm
-2. Cypress testing
+2. Cypress integration testing
 3. eslint
 4. git hooks
 5. CI/CD (Jenkins)
@@ -35,6 +35,8 @@ Additional reqs:
   * Custom elemnts MDN - https://developer.mozilla.org/en-US/docs/Web/API/Window/customElements
   
   * Text field design - https://material.io/components/text-fields/#
+  
+  * Integration testing - https://www.cypress.io/
 
 ## ETA
 
